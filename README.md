@@ -9,25 +9,25 @@ LAC and Resources for INOS6211
 # Connect to your VM with SSH (the secure shell) , you can read more about it [here](https://www.ssh.com/ssh/)
 1. Access your VM using azure lab services [click here if you are lost](https://labs.azure.com). 
 2.Start your lab 
-![start your lab](/images/sshconnection.png)
+![start your lab](/images/sshconnection.PNG)
 
 3. select SSH as your connection method:
-![Connect with SSH](/images/sshconnection.png)
+![Connect with SSH](/images/sshconnection.PNG)
 *You will need to create a password at this stage*
 
 4.open the command prompt (CMD) on your machine : *start -> Command Prompt*
-![Connect with SSH](/images/commandprompt.png)
+![Connect with SSH](/images/commandprompt.PNG)
 
 5.Copy the SSH connection from Azure
-![copy SSH link](/images/sshlink.png)
+![copy SSH link](/images/sshlink.PNG)
 
 6.Paste the link in your CMD
-![paste CMD](/images/sshcmd.png)
+![paste CMD](/images/sshcmd.PNG)
 
 7. Click Enter to connect
 *Type yes to connect when asked*
 *provide the password you set for your machine*
-![connected SSH)(/images/connectedssh.png)
+![connected SSH)(/images/connectedssh.PNG)
 
 8. Install the tree tool [install tree](https://vitux.com/linux-tree-command/)
 
