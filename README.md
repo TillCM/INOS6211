@@ -8,6 +8,8 @@ LAC and Resources for INOS6211
 
 # Connect to your VM with SSH (the secure shell) , you can read more about it [here](https://www.ssh.com/ssh/)
 1. Access your VM using azure lab services [click here if you are lost](https://labs.azure.com). 
+
+
 2.Start your lab 
 ![start your lab](/images/sshconnection.PNG)
 
