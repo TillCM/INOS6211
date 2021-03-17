@@ -11,9 +11,11 @@ LAC and Resources for INOS6211
 
 
 2.Start your lab 
+
 ![start your lab](/images/sshconnection.PNG)
 
 3. select SSH as your connection method:
+
 ![Connect with SSH](/images/sshconnection.PNG)
 *You will need to create a password at this stage*
 
