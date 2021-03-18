@@ -36,7 +36,37 @@ LAC and Resources for INOS6211
 8. Install the tree tool [install tree](https://vitux.com/linux-tree-command/)
 
 9.Create the following folder structure using the MKDIR and CD commands:
+10.add the files using the touch command [touch command](https://www.geeksforgeeks.org/touch-command-in-linux-with-examples/)
 [Create and Navigate folders in Linux](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management)
+
+```├── postman
+│   └── test_collection.json
+│   └── test_environment.json
+├── migrations
+│   └── V01__Initial.sql
+├── quickstart
+│   ├── docker-compose.yml
+│   └── docker-compose.override.yml
+└── src
+    └── Teamfu-be
+        ├── appsettings.Development.json
+        ├── appsettings.json
+        ├── Controllers
+        │   ├── ToDoItemsController.cs
+        │   └── ...
+        ├── Models
+        │   ├── TodoItems.cs
+        │   ├── ...
+        │   └── TodoitemsContext.cs
+        ├── Program.cs
+        ├── Properties
+        │   └── launchSettings.json
+        ├── Startup.cs
+        ├── Teamfu-be.csproj
+        └── WeatherForecast.cs
+└── Dockerfile
+└── scripts
+    └── entrypoint.sh
 
 10. Use the tree command to display the folder structure 
 
