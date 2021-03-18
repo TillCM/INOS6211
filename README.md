@@ -39,6 +39,11 @@ LAC and Resources for INOS6211
 10.add the files using the touch command [touch command](https://www.geeksforgeeks.org/touch-command-in-linux-with-examples/)
 [Create and Navigate folders in Linux](https://www.digitalocean.com/community/tutorials/basic-linux-navigation-and-file-management)
 
+Here is some help:
+[cd command](https://linuxize.com/post/linux-cd-command/)
+[mkdir command](https://www.geeksforgeeks.org/mkdir-command-in-linux-with-examples/)
+
+
 ```├── postman
 │   └── test_collection.json
 │   └── test_environment.json
