@@ -78,13 +78,13 @@ Here is some help:
 
 11. Install Apache web server and configure your webpage [Install Apache on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04)
 
-#INOS6211 LAC 2: 
+# INOS6211 LAC 2: 
 
 ## Understanding the Linux boot program 
 This video explains to you how Linux (any operating system really) boots. 
- ![Understanding the Linux Boot Process](https://www.youtube.com/watch?v=mHB0Z-HUauo)
- ![Understanding the POST proccess](https://www.youtube.com/watch?v=PSnGuvylWBI)
- ![Common POST Beep codes](https://www.pcmag.com/encyclopedia/term/beep-codes)
+ [Understanding the Linux Boot Process](https://www.youtube.com/watch?v=mHB0Z-HUauo)
+ [Understanding the POST proccess](https://www.youtube.com/watch?v=PSnGuvylWBI)
+ [Common POST Beep codes](https://www.pcmag.com/encyclopedia/term/beep-codes)
  
 Watch these videos and create an infographic to explain the boot process visually 
 Here are some nice free infographic tools 
