@@ -82,14 +82,20 @@ Here is some help:
 
 ## Understanding the Linux boot program 
 This video explains to you how Linux (any operating system really) boots. 
+
  [Understanding the Linux Boot Process](https://www.youtube.com/watch?v=mHB0Z-HUauo)
+ 
  [Understanding the POST proccess](https://www.youtube.com/watch?v=PSnGuvylWBI)
+ 
  [Common POST Beep codes](https://www.pcmag.com/encyclopedia/term/beep-codes)
  
 Watch these videos and create an infographic to explain the boot process visually 
 Here are some nice free infographic tools 
+
 [CANVA](https://www.canva.com/)
+
 [PIKTO CHART](https://piktochart.com/)
+
 *Textbook ref : p17-27*
 
 ## Understanding how Linux is installed:
