@@ -34,16 +34,6 @@ LAC and Resources for INOS6211
 ![connected SSH)(/images/connectedssh.PNG)
 
 
-
-
-
-
- 
- 
-
-
-
-
 8. Install the tree tool [install tree](https://vitux.com/linux-tree-command/)
 
 9.Create the following folder structure using the MKDIR and CD commands:
@@ -83,7 +73,7 @@ Here is some help:
 └── Dockerfile
 └── scripts
     └── entrypoint.sh
-
+```
 10. Use the tree command to display the folder structure 
 
 11. Install Apache web server and configure your webpage [Install Apache on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04)
