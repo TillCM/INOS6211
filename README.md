@@ -120,6 +120,34 @@ I need you to open your terminal ctrl+alt+T and issue the following commands*
 11. show the contents of the /ect/default/grub file with line numbers using  cat
 
 
+## LAC3:
+
+# Working with the Linux filing systems and Hard drives 
+
+### Step 1 : Learn to Dual boot with Linux:
+
+1. Add an extra 10GB Harddrive to your machine
+
+[Add HDD Hyper_V](https://manuals.gfi.com/en/exinda/help/content/exos/virtual-appliances/hyper-v/hyperv-locate-vhd.htm)
+
+2. Watch the following video to allow Ubuntu to recognize the drive  
+
+[Mount HDD Ubuntu](https://www.youtube.com/watch?v=jZVs-SInMBU)
+*we are using Hyper-V watch the video above to add hour HDD*
+
+
+#### Do not use your class VM for this ! Create a new one !!!
+4. Use the following tutorial to dual boot and partition a Linux system:
+
+[Dual Boot and Partition Linux](https://www.tecmint.com/install-ubuntu-alongside-with-windows/#:~:text=In%20the%20hard%20disk%20partition,to%20create%20the%20Ubuntu%20partition.&text=In%20the%20partition%20pop%2Dup,the%20beginning%20of%20this%20space.)
+
+## Understanding the Linux file system 
+[Watch me](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+
+[Linux file system types](https://www.youtube.com/watch?v=V2h_Gh7vS6w) 
+[Linux file system types 2](https://www.youtube.com/watch?v=_h30HBYxtws)
+
+
 
 
 
