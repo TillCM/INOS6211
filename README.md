@@ -156,6 +156,7 @@ I need you to open your terminal ctrl+alt+T and issue the following commands*
 [Adding Linux Users , Groups etc](https://www.youtube.com/watch?v=7d_4b7uZTtk)
 [Working with Linux file permissions](https://linuxhandbook.com/linux-file-permissions/)
 [Video to hlep with file permissions](https://linuxhandbook.com/linux-file-permissions/)
+[working with CHMOD](https://linuxhandbook.com/chmod-command/)
 
 ### YOUR TASK ......
 #### log into your linux machine and create the following folders:
