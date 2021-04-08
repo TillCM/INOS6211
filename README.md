@@ -148,6 +148,40 @@ I need you to open your terminal ctrl+alt+T and issue the following commands*
 [Linux file system types 2](https://www.youtube.com/watch?v=_h30HBYxtws)
 
 
+### Create a power point presentation that explains the different linux file systems. 
+
+## Understanding users in Linux:
+
+[Understanding Linux Users, Groups and Permissions](https://www.digitalocean.com/community/tutorials/an-introduction-to-linux-permissions)
+[Adding Linux Users , Groups etc](https://www.youtube.com/watch?v=7d_4b7uZTtk)
+[Working with Linux file permissions](https://linuxhandbook.com/linux-file-permissions/)
+[Video to hlep with file permissions](https://linuxhandbook.com/linux-file-permissions/)
+
+### YOUR TASK ......
+#### log into your linux machine and create the following folders:
+1. Staff
+2. HR
+3. Finance
+4. Top Secret Stuff
+5. Who cares what is in here 
+6. Shared folder 
+
+Now creat the following users:
+
+1. JaneHR
+2. MikeStaff
+3. EmilyFinancy 
+4. DrWhoTopsecretstuff
+
+NOW 
+1. Make Jane the owner of the HR folder 
+2. Create a group called allStaff and assign 777 permissions to the staff folder for this group 
+3. Create a group called senior Managers, add Jane and Emily to this group. 
+4. Give the group read only permissions to the folder. 
+5. Make the root the  owner of the Top Sectret folder and apply the 400 permission
+6. Create the DrWhoTopsecretstuff user - try to give himp permissions on the Topsecret folder. 
+7. 
+
 
 
 
