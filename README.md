@@ -187,11 +187,7 @@ NOW
 6. Create the DrWhoTopsecretstuff user - try to give himp permissions on the Topsecret folder. 
 7. 
 
-
-
-
-
-
+[More help on users and groups] ("https://phoenixnap.com/kb/how-to-add-user-to-group-linux")
 
 
 
